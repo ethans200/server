@@ -1,19 +1,19 @@
-# 🍽️ Sistema de Gestión de Restaurante - "Restauración 4.0"
+#  Sistema de Gestión de Restaurante - "Restauración 4.0"
 
 Este es un proyecto integral desarrollado para la asignatura de **Lenguaje de Programación 2** en la **Universidad Agraria del Ecuador**.
 
-## 🚀 Características Principales
+## Características Principales
 - **Gestión Multi-rol:** Administradores, Meseros y Cocineros.
 - **Terminal POS:** Catálogo visual con categorías.
 - **Monitor de Cocina:** Flujo de órdenes con lógica FIFO.
 - **Control de Mesas:** Estados en tiempo real.
 
-## 🧠 Algoritmos y Estructuras de Datos
+## Algoritmos y Estructuras de Datos
 1. **Cola Dinámica:** Basada en **Nodos** para pedidos (Estructura manual).
 2. **Ordenamiento:** **Bubble Sort** para organizar productos por ID.
 3. **Memoria:** Hash Maps para carrito de compras.
 
-## 📂 Estructura del Proyecto
+## Estructura del Proyecto
 ```text
 SistemaRestaurante/
 ├── base_datos/      # Conexión SQLite.
@@ -22,6 +22,7 @@ SistemaRestaurante/
 ├── modelo/          # Clases base.
 ├── vistas/          # Interfaz Tkinter.
 └── main.py          # Punto de entrada.
+```
 💻 Instalación y Uso
 Clona el repositorio:
 code
