@@ -1,4 +1,4 @@
-## Sistema de Gestión de Restaurante - "Restauración 4.0"
+# Sistema de Gestión de Restaurante - "Restauración 4.0"
 
 Este es un proyecto integral desarrollado para la asignatura de **Lenguaje de Programación 2** en la **Universidad Agraria del Ecuador**. El sistema está diseñado para optimizar la gestión operativa de un restaurante, abarcando desde la toma de pedidos por los meseros hasta el monitoreo en tiempo real en la cocina.
 
@@ -9,7 +9,7 @@ Este es un proyecto integral desarrollado para la asignatura de **Lenguaje de Pr
 - **Monitor de Cocina Inteligente:** Gestión de flujo de órdenes mediante una estructura de cola dinámica.
 - **Control de Mesas:** Visualización del estado de las mesas (Disponible/Ocupada) en tiempo real.
 - **Administración de Inventario:** CRUD de productos con actualización de precios dinámica.
-
+  
 ## Tecnologías Utilizadas
 
 - **Lenguaje:** Python 3.13
@@ -36,3 +36,22 @@ SistemaRestaurante/
 ├── vistas/          # Todas las interfaces gráficas y layouts (Tkinter).
 ├── main.py          # Punto de entrada de la aplicación.
 └── README.md        # Documentación del proyecto.
+ Instalación y Uso
+Asegúrate de tener instalado Python 3.10 o superior.
+Clona el repositorio:
+code
+Bash
+git clone https://github.com/ethans200/server.git
+Navega a la carpeta del proyecto:
+code
+Bash
+cd SistemaRestaurante
+Ejecuta la aplicación:
+code
+Bash
+👥 Integrantes - Grupo 5
+Salazar Vega Ethan Ismael
+Antonella Franchesca Castillo Morquecho
+Washington Adre Avalos Eduarte
+Juan Jose Chonillo Moran
+Ronaldo Simon Alvear Jurado
