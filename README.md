@@ -25,17 +25,16 @@ SistemaRestaurante/
 ```
 💻 Instalación y Uso
 Clona el repositorio:
-code
-Bash
 git clone https://github.com/ethans200/server.git
+
 Entra a la carpeta del código:
-code
-Bash
+
 cd server/SistemaRestaurante
+
 Ejecuta el sistema:
-code
-Bash
+
 python main.py
+
 👥 Integrantes - Grupo 5
 Salazar Vega Ethan Ismael
 Antonella Franchesca Castillo Morquecho
