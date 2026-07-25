@@ -24,20 +24,20 @@ SistemaRestaurante/
 └── main.py          # Punto de entrada.
 ```
 💻 Instalación y Uso
-Clona el repositorio:
-git clone https://github.com/ethans200/server.git
+  Clona el repositorio:
+  git clone https://github.com/ethans200/server.git
 
-Entra a la carpeta del código:
+  Entra a la carpeta del código:
 
-cd server/SistemaRestaurante
+  cd server/SistemaRestaurante
 
-Ejecuta el sistema:
+  Ejecuta el sistema:
 
-python main.py
+  python main.py
 
-👥 Integrantes - Grupo 5
-Salazar Vega Ethan Ismael
-Antonella Franchesca Castillo Morquecho
-Washington Adre Avalos Eduarte
-Juan Jose Chonillo Moran
-Ronaldo Simon Alvear Jurado
+##  Integrantes - Grupo 5
+- Salazar Vega Ethan Ismael
+- Antonella Franchesca Castillo Morquecho
+- Washington Adre Avalos Eduarte
+- Juan Jose Chonillo Moran
+- Ronaldo Simon Alvear Jurado
